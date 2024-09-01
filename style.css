@@ -54,6 +54,7 @@ article{
 article.fundo{
     background-attachment: fixed;
     background-size: cover;
+    box-shadow: inset 0px 1px 5px;
 }
 
 article.fundo p{
